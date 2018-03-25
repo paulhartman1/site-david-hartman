@@ -1,0 +1,15 @@
+The background color sucks 12/20/2017 LOW
+	Text needed for all content 12/20/2017 HIGH
+	Rename pictures 12/20/2017
+Social media icon functionality - jquery injection 12/20/2017 HIGH
+	Replace Narwhal video with Dave video HIGH 12/20/2017
+hide youtube link 12/20/2017
+Create sub pages HIGH 12/20/2017
+	Gallaries etc
+carousel images have/are links to... HIGH 12/20/2017
+shopping cart LOW 12/20/2017
+?how do we ID images for sale/sold/not for sale?
+?how does dad add pics/edit text?
+Coloring book order form page 12/20/2017
+"Friends of Me" Nav item
+Database for customers, etc.
